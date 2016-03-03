@@ -1,1 +1,1 @@
-Cricket score update desktop notifications sample application.
+Cricket score update desktop notifications sample application.This commit has been pushed via visual studio code.
